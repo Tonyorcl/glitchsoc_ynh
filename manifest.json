@@ -1,6 +1,6 @@
 {
-    "name": "Glitch-Soc",
-    "id": "glitchsoc",
+    "name": "Glitch-SoCustom",
+    "id": "glitchsocustom",
     "packaging_format": 1,
     "description": {
         "en": "Libre and federated social network, fork of Mastodon",
