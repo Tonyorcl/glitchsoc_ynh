@@ -1,7 +1,7 @@
-SOURCE_URL=https://github.com/Tonyorcl/mastodon/archive/refs/tags/1.2.2.5.tar.gz
-SOURCE_SUM=23b5195cdaec169697b4a428744ea51e329b507756ee7cf8cb8c5542815b0f74
+SOURCE_URL=https://github.com/Tonyorcl/mastodon/archive/refs/tags/1.2.2.6.zip
+SOURCE_SUM=a8b18dd98242167f869ae04260a3eef3530a0621efd31884d83baa22c405139f
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=1.2.2.5.tar.gz
+SOURCE_FILENAME=1.2.2.6.tar.gz
 SOURCE_EXTRACT=true
