@@ -1,4 +1,4 @@
-SOURCE_URL=https://github.com/Tonyorcl/mastodon/archive/refs/tags/1.2.2.6.zip
+SOURCE_URL=https://github.com/Tonyorcl/mastodon/archive/refs/tags/1.2.2.6.tar.gz
 SOURCE_SUM=a8b18dd98242167f869ae04260a3eef3530a0621efd31884d83baa22c405139f
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
