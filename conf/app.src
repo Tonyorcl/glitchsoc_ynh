@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/Tonyorcl/glitchsoc_ynh/archive/refs/tags/1.2.2.4.tar.gz
-SOURCE_SUM=d5997b0e2e8985dceebe73a6ff23abd4556dba916ff93559b228a0d5d608769d
+SOURCE_URL=https://github.com/Tonyorcl/mastodon/archive/refs/tags/1.2.2.5.tar.gz
+SOURCE_SUM=23b5195cdaec169697b4a428744ea51e329b507756ee7cf8cb8c5542815b0f74
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
