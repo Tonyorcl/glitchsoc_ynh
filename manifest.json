@@ -7,11 +7,11 @@
         "fr": "Réseau social libre et fédéré, scission de Mastodon"
     },
     "version": "2021.05.22~ynh2",
-    "url": "https://github.com/glitch-soc/mastodon",
+    "url": "https://github.com/Tonyorcl/mastodon/",
     "upstream": {
         "license": "free",
         "website": "https://glitch-soc.github.io/docs/",
-        "code": "https://github.com/glitch-soc/mastodon"
+        "code": "https://github.com/Tonyorcl/mastodon/"
     },
     "license": "AGPL-3.0-or-later",
     "maintainer": {
